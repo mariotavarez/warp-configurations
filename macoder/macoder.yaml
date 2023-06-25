@@ -1,0 +1,29 @@
+accent: "#12ffdd"
+background: "#000000"
+foreground: "#ffffff"
+############################################################### SEE BELOW
+background_image:
+  # background image author: Shikhiu Ing, Warp.dev
+  path: macoder/macoder_bg.jpg
+  opacity: 20
+############################################################### SEE ABOVE
+details: "darker"
+terminal_colors:
+  normal:
+    black: "#ffffff"
+    red: "#ff8272"
+    green: "#00ff24"
+    yellow: "#fefdc2"
+    blue: "#a5d5fe"
+    magenta: "#12ffdd"
+    cyan: "#12ffdd"
+    white: "#f1f1f1"
+  bright:
+    black: "#8e8e8e"
+    red: "#ffc4bd"
+    green: "#d6fcb9"
+    yellow: "#fefdd5"
+    blue: "#c1e3fe"
+    magenta: "#ffb1fe"
+    cyan: "#e5e6fe"
+    white: "#feffff"
